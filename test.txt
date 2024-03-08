@@ -1,0 +1,62 @@
+Question(1)- what is different between collections and collection?
+Answer- collections is a class.
+        collection is interface.
+
+Question(2)-write a user defined class employee using set machnism and overwrite the equal and hash code 
+            Method to  check the employee id are valid ?
+
+Answer- import java.util.*;
+        class Employee
+        {
+          int eid;
+          String ename,post;
+          Employee(int eid,String ename,String post)
+          {
+            this.eid = eid;
+            this.ename = ename;
+            this.addr = post;
+          }
+         public static void main(String agr[])
+         { 
+
+
+
+
+
+          }
+       }
+Question(3)-what is different between listset map?
+Answer- list - the element can be duplicated in the list interfece.
+        Map -  map is an interface that is used to  store key| value pairs. 
+        Set -  duplicate element are not allowed.
+  
+Question(4)-what is different between comparable and comparable interfece?
+Answer-Comparable-java Comparable is interfece this interfece is found package and contains only one Method.
+       Comparable interfece- java Comparable is interface is used to order the object the of a userdefined a class.
+ 
+
+Question(5)-what is different treeSet and treeMap?
+Answer- TreeMap - java treemap contains the key and value.
+        TreeSet-  javatree set class is an interface it is inherit Abstractset class object of treesetSet class are store
+                  are Asscending order the  important point treeSet class are the first javatree set class contnains one 
+                  time hashSet. 
+
+                                                     Test (6:00 PM JAVA CLASS)
+
+Question(1)- what is difference between override method and overloading ?
+Answer - Overloading Method - Method overloading involves creating multiple methods in the same class with the same name but                                     
+                              with different parameters. The return type may or may not be different.
+      
+         Override Method - Method overriding occurs when a subclass provides a specific implementation for a method that is 
+                            already present in its superclass. 
+
+
+Question(2) - what is difference between interface and Abstraction?
+Answer -  Abstract - An abstract class is a class that cannot be instantiated on its own and is meant to be subclassed.
+          interface - An interface is a completely abstract class that cannot contain method implementations.
+
+Question(3) -  why does not use multiple support inheritance in java  ?
+Question(4) - Swing use of (login page)?
+
+
+                                            
